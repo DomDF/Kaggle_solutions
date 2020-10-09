@@ -12,3 +12,5 @@ Kaggle submissions (and late submissions) that I chose not to run in Kaggle note
     Challenge: https://www.kaggle.com/c/digit-recognizer
 
     My Solution: Keras neural network (3 hidden layers) with standardise inputs
+    
+    My score: 96.717% test accuracy
