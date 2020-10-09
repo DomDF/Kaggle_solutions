@@ -1,5 +1,5 @@
 # Kaggle_solutions
-Kaggle submissions (and late submissions) that I chose not to run in Kaggle notebooks
+Kaggle submissions (and late submissions)
 
 * Don't Overfit II Challenge
 
