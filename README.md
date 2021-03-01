@@ -11,6 +11,6 @@ Kaggle submissions (and late submissions)
 
     Challenge: https://www.kaggle.com/c/digit-recognizer
 
-    My Solution: Keras neural network (3 hidden layers) with standardise inputs
+    My Solution: Keras neural network (3 hidden layers) with standardised inputs
     
     My score: 96.717% test accuracy
